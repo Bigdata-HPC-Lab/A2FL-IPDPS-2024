@@ -12,5 +12,5 @@ From the paper  "A2FL: Autonomous and Adaptive File Layout in HPC through Real-t
 [Image generated from CSV file]
 - https://drive.google.com/drive/folders/1-lrJd-VyzFvF6eS5NevV7qFvUjYcwbGN?usp=drive_link
 
-Sample of the image
-![32GB data, 8Node, 64 Process, StripeCount 32](https://github.com/Bigdata-HPC-Lab/A2FL/blob/main/IMGwithHue/8g-1n-8proc-stripe8-job8572958.jpeg?raw=true)
+Sample of the image (More can be found in IMGwithHue folder)
+![Sample](https://github.com/Bigdata-HPC-Lab/A2FL/blob/main/IMGwithHue/8g-1n-8proc-stripe8-job8572958.jpeg?raw=true)
