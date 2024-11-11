@@ -6,10 +6,10 @@ From the paper  "A2FL: Autonomous and Adaptive File Layout in HPC through Real-t
 
 
 
-[CSV file link]
+CSV file link
 - https://drive.google.com/drive/folders/103ukLAdjRSyzy3oeCkRIjKi7JNrc6fHs?usp=drive_link
 
-[Image generated from CSV file]
+Image generated from CSV file
 - https://drive.google.com/drive/folders/1-lrJd-VyzFvF6eS5NevV7qFvUjYcwbGN?usp=drive_link
 
 Sample of the image (More can be found in IMGwithHue folder)
