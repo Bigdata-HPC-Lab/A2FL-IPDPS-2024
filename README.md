@@ -13,4 +13,4 @@ From the paper  "A2FL: Autonomous and Adaptive File Layout in HPC through Real-t
 - https://drive.google.com/drive/folders/1-lrJd-VyzFvF6eS5NevV7qFvUjYcwbGN?usp=drive_link
 
 Sample of the image
-![32GB data, 8Node, 64 Process, StripeCount 32](https://drive.google.com/file/d/1Bvk-nYNdYRaA9U8E-xyht2eWkE15cyCn/view?usp=drive_link)
+![32GB data, 8Node, 64 Process, StripeCount 32](https://drive.google.com/file/d/19EBHSXFGIuT3SBn6QVblv5e6Fa8oBZPo/view?usp=drive_link)
